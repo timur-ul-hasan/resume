@@ -1,0 +1,25 @@
+li {
+	margin-left: 35px;
+}
+
+ul {
+	margin-left: 15px;
+}
+
+.fa {
+	color: darkgrey;
+	margin-right: 10px;
+}
+
+.fa.fa-briefcase {
+	margin-left: 2px;
+}
+
+h3, h4 {
+	margin-top: 15px;
+}
+
+.blockquote.border-bottom {
+	margin-top: 25px;
+	padding-bottom: 25px;
+}
