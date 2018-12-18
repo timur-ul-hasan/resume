@@ -4,7 +4,7 @@
 	<title>CV</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	<link rel="stylesheet" type="text/css" href="http://localhost/cv.css">
+	<link rel="stylesheet" type="text/css" href="http://localhost/cv/cv.css">
 </head>
 <body>
 	<div class="container">
@@ -18,9 +18,9 @@
 					<span class="border-bottom">CONTACT</span>
 				</h3>
 				<ul class="border-left list-unstyled lead">
-					<li><i class="fa fa-envelope"></i>hasanjaved065@gmail.com</li>
-					<li><i class="fa fa-phone-square"></i>+92 347 4134760</li>
-					<li><i class="fa fa-home"></i>Satellite Town, Rawalpindi.</li>
+					<li><i class="fa fa-envelope"></i> hasanjaved065@gmail.com</li>
+					<li><i class="fa fa-phone-square"></i> +92 347 4134760</li>
+					<li><i class="fa fa-home"></i> Satellite Town, Rawalpindi.</li>
 				</ul>
 			</div>
 		</div>
@@ -37,7 +37,7 @@
 					<span class="border-bottom">WORK EXPERIENCE</span>
 				</h3>
 				<ul class="border-left list-unstyled">
-					<li><h4>Karigar Web Solutions</h4></li>
+					<li><h4>Histone Solutions</h4></li>
 					<li><small class="border-left" style="padding-left: 5px">Nov 2016 - June 2018</small>
 					<p class="border-bottom lead"><i class="fa fa-user"></i><strong>Jr. Web Developer</strong></p></li>
 					<li class="lead">Developed add-ons in <b>XenForo</b> (A forums community software). Developed and deployed <strong>25+</strong> add-ons for various sites from which a few sites are:</li><br />
