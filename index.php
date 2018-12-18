@@ -10,7 +10,7 @@
 	<div class="container">
 		<div class="row border-bottom">
 			<div class="col-md-8">
-				<span style="font-size: 600%">Abid Ali</span>
+				<span style="font-size: 600%">Hasan Javed</span>
 			</div>
 			<div class="col-md-4">
 				<h3>
@@ -18,9 +18,9 @@
 					<span class="border-bottom">CONTACT</span>
 				</h3>
 				<ul class="border-left list-unstyled lead">
-					<li><i class="fa fa-envelope"></i>abidalixonu@gmail.com</li>
-					<li><i class="fa fa-phone-square"></i>+92 324 8765987</li>
-					<li><i class="fa fa-home"></i>Moh. Rangpura, Sialkot</li>
+					<li><i class="fa fa-envelope"></i>hasanjaved065@gmail.com</li>
+					<li><i class="fa fa-phone-square"></i>+92 347 4134760</li>
+					<li><i class="fa fa-home"></i>Satellite Town, Rawalpindi.</li>
 				</ul>
 			</div>
 		</div>
