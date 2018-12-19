@@ -29,7 +29,7 @@
 			<div class="col-md-8">
 
 				<p class="blockquote border-bottom">
-					<i class="fa fa-quote-left fa-3x fa-pull-left fa-border"></i>Diligent web developer equipped with technical skills, abilities and a year of experience in hand looking forward seeking an opportunity to work in collaboration with experienced personnel for better career development and professional growth.
+					<i class="fa fa-quote-left fa-3x fa-pull-left fa-border"></i>Diligent web developer equipped with technical skills, abilities and <b>5</b> years of experience in hand, looking forward seeking an opportunity to work in collaboration with experienced personnel for better career development and professional growth.
 				</p>
 
 				<h3>
@@ -39,29 +39,29 @@
 				<ul class="border-left list-unstyled">
 					<li><h4>Histone Solutions</h4></li>
 					<li><small class="border-left" style="padding-left: 5px">Nov 2016 - June 2018</small>
-					<p class="border-bottom lead"><i class="fa fa-user"></i><strong>Jr. Web Developer</strong></p></li>
-					<li class="lead">Developed add-ons in <b>XenForo</b> (A forums community software). Developed and deployed <strong>25+</strong> add-ons for various sites from which a few sites are:</li><br />
+					<p class="border-bottom lead"><i class="fa fa-user"></i><strong>Mid Level Web Developer</strong></p></li>
+					<li class="lead">Work on <b>SellerLegend</b> (Amazon Seller Central). Developed and deployed <strong>100+</strong> features for <b>SellerLegend</b> and debug & solve issues</li><br />
 					<li>
 						<table class="table table-striped">
 							<tr>
 								<th>Site Name</th>
-								<th>Forums Link</th>
+								<th>Url</th>
 							</tr>
 							<tr>
-								<td>PlayerUp</td>
-								<td>https://www.playerup.com</td>
+								<td>Sellerlegend</td>
+								<td>https://www.sellerlegend.com</td>
 							</tr>
 							<tr>
-								<td>Tesla Motors Club (TMC)</td>
-								<td>https://teslamotorsclub.com/tmc</td>
+								<td>OpenSupermall</td>
+								<td>https://opensupermall.com</td>
 							</tr>
 							<tr>
-								<td>BD Outdoors</td>
-								<td>https://www.bdoutdoors.com/forums</td>
+								<td>Kayco</td>
+								<td>https://www.kayco.com/</td>
 							</tr>
 							<tr>
-								<td>Coastside Fishing Club</td>
-								<td>https://forums.coastsidefishingclub.com</td>
+								<td>BlueApp</td>
+								<td>https://blueapp.com</td>
 							</tr>
 							<tr>
 								<td>Grapplers Guide</td>
@@ -100,20 +100,20 @@
 				</h3>
 				<ul class="border-left list-unstyled lead">
 					<li>PHP, OOP, MVC</li>
+					<li>Laravel</li>
 					<li>MySql</li>
+					<li>Git</li>
 					<li>Javascript</li>
 					<li>JQuery</li>
 					<li>Node.js</li>
 					<li>HTML, HTML5</li>
 					<li>CSS, CSS3</li>
 					<li>Bootstrap</li>
-					<li>XenForo</li>
-					<li>Laravel</li>
-					<li>Joomla</li>
-					<li>Wordpress</li>
-					<li>Linux (Ubuntu) Command line</li>
-					<li>Git</li>
-					<li>Slack</li>
+					<li>Meteor.JS</li>
+					<li>Next.js</li>
+					<li>Express.js</li>
+					<li>Linux (Ubuntu)</li>
+					<li>Slack,Trello</li>
 				</ul>
 				<h3>
 					<i class="fa fa-keyboard-o"></i>
@@ -125,6 +125,7 @@
 					<li>Debugging</li>
 					<li>DNS Management</li>
 					<li>cPanel and Server Configuration</li>
+					<li>SSH</li>
 				</ul>
 				<h3>
 					<i class="fa fa-handshake-o"></i>
